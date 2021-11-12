@@ -1,1 +1,2 @@
-# Reproduzindo-Netflix
+  ✔ Reproduzindo-Netflix
+  💻 HTML e CSS;
